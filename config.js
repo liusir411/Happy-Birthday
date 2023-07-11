@@ -28,7 +28,7 @@ var config = {
     desc: {
         turn_on: "Press this button to start the journey",
         play: "Play MUSIC that belongs to you",
-        bannar_coming: "Of course, the indispensable balloon",
+        bannar_coming: "Let me think about it",
         balloons_flying: "Seems to be missing something",
         cake_fadein: "Birthday cake?",
         light_candle: "Birthday candles?",
